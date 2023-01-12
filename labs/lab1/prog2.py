@@ -11,6 +11,8 @@
 #iterative version
 
 import time
+import sys
+sys.set_int_max_str_digits(0)
 
 def fib1(n):
     lst = [0, 1]
