@@ -3,7 +3,54 @@
 \usepackage{amsmath, amssymb, setspace, enumerate, enumitem}
 \usepackage{setspace}
 \usepackage{graphicx}
+\onehalfspacing
 
 \begin{document}
-    hello
+    \begin{enumerate}[label=\textbf{Q1}]
+        \item (20 points; 2 per part) DPV Problem 0.1 (parts a and j): In each of the following situations, indcate whether $f = O(g)$, or $f = \omega(g)$, or both (in each case $f = \theta(g)$).\\[0.25in]
+        \begin{tabular}{l l l l}
+            &$f(n)$ & $g(n)$ & answer\\
+            \textbf{(a)} & $n - 100$ & $n - 200$ & answer\\
+            \textbf{(b)} & $n^{\frac{1}{2}}$ & $n^{\frac{2}{3}}$ & answer\\
+            \textbf{(c)} & $100n + log\ n$ & $n + (log\ n)^2$ & answer\\
+            \textbf{(d)} & $n\ log\ n$ & $10n\ log\ 10n$ & answer\\
+            \textbf{(e)} & $log\ 2n$ & $log\ 3n$ & answer\\
+            \textbf{(f)} & $10\ log\ n$ & $log(n^2)$ & answer\\
+            \textbf{(g)} & $n^{1.01}$ & $nlog^2\ n$ & answer\\
+            \textbf{(h)} & $\frac{n^2}{log\ n}$ & $n(log\ n)^2$ & answer\\
+            \textbf{(i)} & $n^{0.1}$ & $(log\ n)^{10}$ & answer\\
+            \textbf{(j)} & $(log\ n)^{log\ n}$ & $\frac{n}{log\ n}$ & answer\\
+        \end{tabular}
+    \end{enumerate}
+
+    \begin{enumerate}[label=\textbf{Q2}]
+        \item (10 points) Consider the following pseudo-code which takes the integer $n \geq 0n \geq 0$ as input:
+        \begin{verbatim}
+            Function bar(n)
+                Print '*';
+                if n == 0 then
+                    Return;
+                end
+                for i = 0 to n - 1 do
+                    bar(i);
+                end
+        \end{verbatim}
+        Let $T(n)$ be the number of times the above function prints a star ($*$) when called with input $n \geq 0$.
+        What is $T(n)$ exactly, in terms of only $n$ (and not values like $T(n - 1)$ or $T(n - 2))$? Prove your
+        statement
+    \end{enumerate}
+
+    \begin{enumerate}[label=\textbf{Q3}]
+        \item (30 points) Let $f(n)$ and $g(n)$ be asymptotically nonnegative functions. Using the basic
+        definition of $\theta$-notation, prove that $max(f(n),g(n))= \theta(f(n)+g(n))$
+    \end{enumerate}
+
+    \begin{enumerate}[label=\textbf{Q4}]
+        \item (10 points; 5 per part)
+        \begin{enumerate}[label=(\alph*)]
+            \item is $2^{2n} = O(2^n)$?
+            \item why?
+        \end{enumerate}
+    \end{enumerate}
+
 \end{document}
