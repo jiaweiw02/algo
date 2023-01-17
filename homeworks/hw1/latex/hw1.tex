@@ -19,7 +19,7 @@
             \textbf{(g)} & $n^{1.01}$ & $nlog^2\ n$ & $f = \Omega(g)$\\
             \textbf{(h)} & $\frac{n^2}{log\ n}$ & $n(log\ n)^2$ & $f = \Omega(g)$\\
             \textbf{(i)} & $n^{0.1}$ & $(log\ n)^{10}$ & $f = \Omega(g)$\\
-            \textbf{(j)} & $(log\ n)^{log\ n}$ & $\frac{n}{log\ n}$ & answer\\
+            \textbf{(j)} & $(log\ n)^{log\ n}$ & $\frac{n}{log\ n}$ & $f = \Omega(g)$\\
         \end{tabular}
     \end{enumerate}
 
@@ -38,15 +38,41 @@
         Let $T(n)$ be the number of times the above function prints a star ($*$) when called with input $n \geq 0$.
         What is $T(n)$ exactly, in terms of only $n$ (and not values like $T(n - 1)$ or $T(n - 2))$? Prove your
         statement\\[0.25in]
-        \textbf{Answer} $= \mathbf{n^2}$\\
-        The function bar(n) calls itself recursively n times. Inside of each call, it calls itself n more times,
-        until it finally reaches the base case, where n = 0, terminating the recursion. Each of the calls are
-        independent from each other, therefore reaching the $T(n^2)$ runtime.
+        \textbf{Solution} $= \mathbf{2^n}$\\
+        \begin{tabular}{l l l}
+            $n$ & calls & $T(n)$\\
+            $0$ & print & $T(0) = 1$\\
+            $1$ & print, $T(0)$ & $T(1) = 2$\\
+            $2$ & print, $T(0)$, $T(1)$ & $T(2) = 4$\\
+            $3$ & print, $T(0)$, $T(1)$, $T(2)$ & $T(3) = 8$\\
+        \end{tabular}
+
+        We deduct that $T(n) = 2^n$\\
+        We can prove the claim by induction. Our recurrence formula given by the function is $T(n) = 2T(n-1)$ for 
+        $T(0) = 1$.\\
+        Base Case: $n = 0$
+        \begin{align*}
+            T(0) &= 1\\
+            1 &= 2^0\\
+            1 &= 1
+        \end{align*}
+        Induction step: prove $2^n = 2T(n-1)$ for $n = k+1$
+        \begin{align*}
+            \boxed{2^{k+1}} &= 2T(k+1-1)
+        \end{align*}
+        \centerline{Work on RHS}
+        \begin{align*}
+            2T(k) &= 2 \times 2^k\\
+            2 \times 2^k &= \boxed{2^{k+1}}
+        \end{align*}
+        Thus proving that our recurrence formula generates the given solution $2^n$.
+
     \end{enumerate}
 
     \begin{enumerate}[label=\textbf{Q3}]
         \item (30 points) Let $f(n)$ and $g(n)$ be asymptotically nonnegative functions. Using the basic
-        definition of $\theta$-notation, prove that $max(f(n),g(n))= \theta(f(n)+g(n))$
+        definition of $\theta$-notation, prove that $max(f(n),g(n))= \theta(f(n)+g(n))$\\[0.25in]
+        Basic notation of
     \end{enumerate}
 
     \begin{enumerate}[label=\textbf{Q4}]
@@ -60,5 +86,4 @@
             as $(2^2)^n$, therefore it is in $O(4^n)$.
         \end{enumerate}
     \end{enumerate}
-
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.20)  14 JAN 2023 23:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.20)  17 JAN 2023 18:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -219,7 +219,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./hw1.aux) ) 
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 62--64
+[] 
+ []
+
+[2] (./hw1.aux) ) 
 Here is how much of TeX's memory you used:
  3464 strings out of 478268
  53022 string characters out of 5846347
@@ -227,9 +232,9 @@ Here is how much of TeX's memory you used:
  21658 multiletter control sequences out of 15000+600000
  472053 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,355b,352s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,12n,62p,355b,281s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on hw1.pdf (2 pages, 104202 bytes).
+Output written on hw1.pdf (2 pages, 107608 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream

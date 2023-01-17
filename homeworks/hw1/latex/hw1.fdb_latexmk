@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1673761011 "/Users/jiaweiwu/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" "hw1.pdf" "hw1" 1673761012
-  "/Users/jiaweiwu/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" 1673761011 3175 b7b4adcc4aed561f1e46d4393d24edcf ""
+["pdflatex"] 1673999694 "/Users/jiaweiwu/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" "hw1.pdf" "hw1" 1673999695
+  "/Users/jiaweiwu/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" 1673999693 3913 fd079cd0b80a48a4388a963cb93f00fa ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -53,8 +53,8 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663728032 2826436 9a9aba40e05c78b51a146a53976c174d ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "hw1.aux" 1673761012 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "hw1.tex" 1673761011 3175 b7b4adcc4aed561f1e46d4393d24edcf ""
+  "hw1.aux" 1673999695 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "hw1.tex" 1673999693 3913 fd079cd0b80a48a4388a963cb93f00fa ""
   (generated)
   "hw1.aux"
   "hw1.log"
