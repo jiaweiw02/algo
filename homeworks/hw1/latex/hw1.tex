@@ -3,7 +3,7 @@
 \usepackage{amsmath, amssymb, setspace, enumerate, enumitem}
 \usepackage{setspace}
 \usepackage{graphicx}
-\onehalfspacing
+\doublespacing
 
 \begin{document}
     \begin{enumerate}[label=\textbf{Q1}]
@@ -65,14 +65,40 @@
             2T(k) &= 2 \times 2^k\\
             2 \times 2^k &= \boxed{2^{k+1}}
         \end{align*}
-        Thus proving that our recurrence formula generates the given solution $2^n$.
+        Thus proving that our recurrence formula generates the given solution $2^n$. $\hfill \blacksquare$
 
     \end{enumerate}
 
     \begin{enumerate}[label=\textbf{Q3}]
         \item (30 points) Let $f(n)$ and $g(n)$ be asymptotically nonnegative functions. Using the basic
         definition of $\theta$-notation, prove that $max(f(n),g(n))= \theta(f(n)+g(n))$\\[0.25in]
-        Basic notation of
+        Basic definition of the $\theta$ notation: If $max(f(n),g(n))= \theta(f(n)+g(n))$, then it must 
+        satisfy $max(f(n),g(n))= O(f(n)+g(n))$ and $max(f(n),g(n))= \Omega(f(n)+g(n))$.\\
+        We must prove $max(f(n),g(n))= O(f(n)+g(n))$ and $max(f(n),g(n))= \Omega(f(n)+g(n))$.\\
+        \textbf{Case 1: } Prove $max(f(n),g(n))= \Omega(f(n)+g(n))$\\
+        We know the following:
+        \begin{align*}
+            max(f(n), g(n)) &\geq f(n) \text{ if max = g(n)}\\
+            max(f(n), g(n)) &\geq g(n) \text{ if max = f(n)}
+        \end{align*}
+        The outcome must of one of them.\\
+        Therefore, we can derive the following equation by adding both sides:
+        \begin{align*}
+            2 \times max(f(n), g(n)) &\geq f(n) + g(n)\\
+            max(f(n), g(n)) &\geq \frac{1}{2}(f(n) + g(n))
+        \end{align*}
+        where $C = \frac{1}{2}$. Since $max(f(n), g(n)) \geq C (f(n)+g(n))$ for some constant $C$, 
+        we prove that $max(f(n), g(n)) = \Omega(f(n) + g(n))$
+
+        \textbf{Case 2: } Prove $max(f(n), g(n)) = O(f(n) + g(n))$\\
+        We know that $max(f(n), g(n)) \leq f(n) + g(n)$. Since this is true, any constant $C > 0$ can be placed
+        on the RHS, rendering the following equation:
+        \begin{align*}
+            max(f(n),g(n)) \leq C(f(n) + g(n))
+        \end{align*}
+        Since this statement is true for any $C > 0$, proving that indeed $max(f(n), g(n)) = O(f(n) + g(n))$
+
+        With the basic definition of $\theta$ notation, we have proved that $max(f(n), g(n)) = \theta(f(n) + g(n)) \hfill \blacksquare$
     \end{enumerate}
 
     \begin{enumerate}[label=\textbf{Q4}]
