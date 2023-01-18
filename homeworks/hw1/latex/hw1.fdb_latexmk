@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1674011579 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" "hw1.pdf" "hw1" 1674011579
+["pdflatex"] 1674079992 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" "hw1.pdf" "hw1" 1674079992
   "C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666801636 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ardennt/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663276254 10773107 cb191ebd97441df48cbcb8022a0bad00 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -51,9 +51,9 @@
   "D:/HDD Apps/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1661881568 30282 33c465a64f2bd5ad4a68a7b2f555a29b ""
   "D:/HDD Apps/MiKTeX/tex/latex/setspace/setspace.sty" 1324294077 22913 a27d7908fc6f0385466454a966a316eb ""
   "D:/HDD Apps/MiKTeX/tex/latex/tools/enumerate.sty" 1636710260 3468 068d84ef9735e15f11c5a120c0a1a139 ""
-  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" 1674011578 5484 825aa0525d52b103a3cc7f80c3188c04 ""
-  "hw1.aux" 1674011579 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "hw1.tex" 1674011578 5484 825aa0525d52b103a3cc7f80c3188c04 ""
+  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw1/latex/hw1.tex" 1674079991 5547 c91ebcd334f65d331062ffd84cd39192 ""
+  "hw1.aux" 1674079992 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "hw1.tex" 1674079991 5547 c91ebcd334f65d331062ffd84cd39192 ""
   (generated)
   "hw1.aux"
   "hw1.log"
