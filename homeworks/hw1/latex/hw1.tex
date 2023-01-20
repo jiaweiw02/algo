@@ -92,12 +92,12 @@
         we prove that $max(f(n), g(n)) = \Omega(f(n) + g(n))$
 
         \textbf{Case 2: } Prove $max(f(n), g(n)) = O(f(n) + g(n))$\\
-        We know that $max(f(n), g(n)) \leq f(n) + g(n)$. Since this is true, any constant $C > 0$ can be placed
+        We know that $max(f(n), g(n)) \leq f(n) + g(n)$. If $max$ is $f(n)$, $f(n) + g(n)$ could be the same value (in the case that $g(n) = 0$), or larger than the max. The same applies if $max$ is $g(n)$. Since this is true, a constant $C > 0$ can be placed
         on the RHS, rendering the following equation:
         \begin{align*}
             max(f(n),g(n)) \leq C(f(n) + g(n))
         \end{align*}
-        Since this statement is true for any $C > 0$, proving that indeed $max(f(n), g(n)) = O(f(n) + g(n))$
+        By assuming that $C = 1$, which is a value in $C > 0$, the function remains the same. Our function remains the same as our first statement, which we know to be true, therefore we prove that $max(f(n), g(n)) = O(f(n) + g(n))$.
 
         With the basic definition of $\theta$ notation, we have proved that $max(f(n), g(n)) = \theta(f(n) + g(n)) \hfill \blacksquare$
     \end{enumerate}
