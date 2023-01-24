@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[margin=1.25in]{geometry}
+\usepackage{amsmath, amssymb, setspace, enumerate, enumitem}
+\usepackage{setspace}
+\usepackage{graphicx}
+\doublespacing
+
+\begin{document}
+    \begin{enumerate}[label=\textbf{Q1}]
+        \item Give an algorithm (pseudo code, with explanation) to compute $2^{2^n}$ in linear time, assuming multiplication of arbitrary size integers takes unit time. What is the bit-complexity if multiplications do not take unit time, but are a function of the bit-length. \\
+        \textbf{Solution:}\\
+        Algorithm to compute $2^{2^n}$ in linear time.
+        \begin{verbatim}
+mult(n):
+    Inputs: the value n
+    Outputs: the product
+
+    x = 2 # base case
+
+    for i in n:
+        x = x squared
+    
+    return x
+        \end{verbatim}
+        Assuming that arbitrary size integers multiplication take unit time,
+        we have $arr[i-1]$ multiplied by $arr[i-1]$. If they are O(1) and the
+        loop runs n times, then we have $O(n)$, which is linear time.
+
+    \end{enumerate}
+\end{document}
