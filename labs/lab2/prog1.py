@@ -13,4 +13,4 @@ def method1(x, y):
 
 
 if __name__ == "__main__":
-    print(method1(341, 12512))
+    print(method1(6, 6))
