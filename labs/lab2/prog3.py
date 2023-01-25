@@ -18,9 +18,9 @@ def method3(x, y):
     P2 = method3(x_r, y_r)
 
     lhs_method3 = int(x_l, 2) + int(x_r, 2)
-    lhs_method3 = str(lhs_method3)
+    lhs_method3 = bin(lhs_method3)[2:]
     rhs_method3 = int(y_l, 2) + int(y_r, 2)
-    rhs_method3 = str(rhs_method3)
+    rhs_method3 = bin(rhs_method3)[2:]
     P3 = method3(lhs_method3, rhs_method3)
     return (P1 << n) + ((P3 - P2 - P1) << int(n / 2)) + P2
 
@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
     method1_lst = []
     method2_lst = []
-    method3_lst = []
+    # method3_lst = []
 
     for i in range(10):
         x = random.randint(10**(d-1), 10**d)
@@ -45,16 +45,16 @@ if __name__ == "__main__":
         method2(x, y)
         method2_lst.append(time.time() - Tbefore2)
         # time for method3
-        bin_x = (bin(x))[2:]
-        bin_y = (bin(y))[2:]
-        Tbefore3 = time.time()
-        print(bin_x, bin_y)
-        method3(bin_x, bin_y)
-        method3_lst.append(time.time() - Tbefore3)
+        # bin_x = (bin(x))[2:]
+        # bin_y = (bin(y))[2:]
+        # Tbefore3 = time.time()
+        # print(bin_x, bin_y)
+        # method3(bin_x, bin_y)
+        # method3_lst.append(time.time() - Tbefore3)
 
     print("Average for method1: {}s".format(sum(method1_lst) / len(method1_lst)))
     print("Average for method2: {}s".format(sum(method2_lst) / len(method2_lst)))
-    print("Average for method3: {}s".format(sum(method3_lst) / len(method3_lst)))
+    # print("Average for method3: {}s".format(sum(method3_lst) / len(method3_lst)))
 
     # bin1 = input("Enter the first binary number: ")
     # bin2 = input("Enter the second binary number: ")

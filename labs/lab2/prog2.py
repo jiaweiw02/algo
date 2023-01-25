@@ -7,6 +7,5 @@ def method2(x, y):
         return z << 2
     return x + (z << 2)
 
-
 if __name__ == "__main__":
-    print(method2(3, 5))
+    print(method2(12,32))
