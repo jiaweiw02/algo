@@ -8,4 +8,4 @@ def method2(x, y):
     return x + (z << 2)
 
 if __name__ == "__main__":
-    print(method2(12,32))
+    print(method2(64,28))
