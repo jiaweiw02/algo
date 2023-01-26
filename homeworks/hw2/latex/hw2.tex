@@ -12,19 +12,36 @@
         Algorithm to compute $2^{2^n}$ in linear time.
         \begin{verbatim}
 mult(n):
-    Inputs: the value n
-    Outputs: the product
-
-    x = 2 # base case
-
-    for i in n:
-        x = x squared
-    
-    return x
+    a = 1 shifted to the left n bits
+    return 1 shifted to the left a bits
         \end{verbatim}
-        Assuming that arbitrary size integers multiplication take unit time,
-        we have $arr[i-1]$ multiplied by $arr[i-1]$. If they are O(1) and the
-        loop runs n times, then we have $O(n)$, which is linear time.
+        The bit complexity if multiplication does not take unit time would be
+        $2^{2n}$.
+    \end{enumerate}
 
+    \begin{enumerate}[label=\textbf{Q2}]
+        \item Consider the problem of computing $N! = 1 \cdot 2 \cdot 3 \cdot \cdot \cdot N$
+        \begin{enumerate}[label=(\alph*)]
+            \item If $N$ is an n-bit number, how many bits long is $N!$ in $O()$ notation (give the tightest bound)?\\
+            \textbf{Solution:}\\
+            Since $N$ is an n-bit number. We assume that $N \times N$ will be $\Theta(N^2)$ time
+            complexity. However, since it is a factorial, the value multiplied will begin to get smaller.
+            Since there is a decrease in the value of $N$ being multiplied, then the total running
+            time for $N!$ will be $\Theta(nlogn)$
+            \item Give an algorithm to compute $N!$ and analyze its running time.\\
+            \textbf{Solution:}
+            \begin{verbatim}
+nfactorial(n):
+    int result = 0;
+    for (int i = 2; i < n; i++){
+        result *= i;
+    }
+    return result;
+            \end{verbatim}
+            The for loop will run $n$ times, multiplication $n \times n$ would be $n^2$ runtime,
+            but since our multiplication is by an increasing value of $n$, the first numbers leading
+            up to $n$ are negligeable until reaching to n. Instead of the multiplication being $n$, 
+            it can be considered as $log n$, taking a total of $nlogn$ running time to complete.
+        \end{enumerate}
     \end{enumerate}
 \end{document}

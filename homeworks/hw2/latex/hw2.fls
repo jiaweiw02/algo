@@ -1,285 +1,295 @@
-PWD /Users/jiaweiwu/Documents/CS/spring2023/algo/homeworks/hw2/latex
-INPUT /usr/local/texlive/2022/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/jiaweiwu/Documents/CS/spring2023/algo/homeworks/hw2/latex/hw2.tex
+PWD c:\Users\ardennt\Documents\CS\spring2023\algo\homeworks\hw2\latex
+INPUT C:\Users\ardennt\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\ardennt\Documents\CS\spring2023\algo\homeworks\hw2\latex\hw2.tex
 OUTPUT hw2.log
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./hw2.aux
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\article.cls
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\HDD Apps\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\HDD Apps\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\hw2.aux
 INPUT hw2.aux
 INPUT hw2.aux
 OUTPUT hw2.aux
-INPUT /usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT D:\HDD Apps\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\HDD Apps\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\HDD Apps\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\HDD Apps\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\HDD Apps\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\HDD Apps\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT D:\HDD Apps\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 OUTPUT hw2.pdf
-INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT C:\Users\ardennt\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT hw2.aux
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
