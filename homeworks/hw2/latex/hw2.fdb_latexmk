@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1674707976 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw2/latex/hw2.tex" "hw2.pdf" "hw2" 1674707977
+["pdflatex"] 1674784711 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw2/latex/hw2.tex" "hw2.pdf" "hw2" 1674784712
   "C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666801636 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ardennt/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663276254 10773107 cb191ebd97441df48cbcb8022a0bad00 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -10,6 +10,8 @@
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx5.tfm" 1136765053 1332 f817c21a1ba54560425663374f1b651a ""
+  "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx7.tfm" 1136765053 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247593066 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247593067 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -47,9 +49,10 @@
   "D:/HDD Apps/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1661881568 30282 33c465a64f2bd5ad4a68a7b2f555a29b ""
   "D:/HDD Apps/MiKTeX/tex/latex/setspace/setspace.sty" 1324294077 22913 a27d7908fc6f0385466454a966a316eb ""
   "D:/HDD Apps/MiKTeX/tex/latex/tools/enumerate.sty" 1636710260 3468 068d84ef9735e15f11c5a120c0a1a139 ""
-  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw2/latex/hw2.tex" 1674707975 2273 df255e1a662bdb0e200e58a3cc84f8fc ""
-  "hw2.aux" 1674707977 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "hw2.tex" 1674707975 2273 df255e1a662bdb0e200e58a3cc84f8fc ""
+  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw2/latex/hw2.tex" 1674784710 3690 cec8cd1df15849cb700a3425627b1dd5 ""
+  "hw2.aux" 1674784712 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "hw2.tex" 1674784710 3690 cec8cd1df15849cb700a3425627b1dd5 ""
+  "problem3_b.png" 1674783620 231284 90484ee21d8ef117bd8a1b83215c4141 ""
   (generated)
   "hw2.aux"
   "hw2.log"

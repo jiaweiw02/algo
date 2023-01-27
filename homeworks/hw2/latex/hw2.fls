@@ -276,6 +276,15 @@ INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 OUTPUT hw2.pdf
 INPUT C:\Users\ardennt\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT .\problem3_b.png
+INPUT .\problem3_b.png
+INPUT problem3_b.png
+INPUT .\problem3_b.png
+INPUT .\problem3_b.png
+INPUT .\problem3_b.png
+INPUT .\problem3_b.png
 INPUT hw2.aux
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
