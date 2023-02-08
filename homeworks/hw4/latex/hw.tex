@@ -8,7 +8,10 @@
 \usepackage{booktabs} % Required for better horizontal rules in tables
 \usepackage{listings} % Required for insertion of code
 \usepackage{enumerate} % To modify the enumerate environment
-\usepackage{amsmath}
+\usepackage{amsmath} % For math symbols
+\usepackage{mathtools} % For floor and ceil
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
 
 %----------------------------------------------------------------------------------------
 %	ASSIGNMENT INFORMATION
@@ -120,7 +123,7 @@ $\hfill$\\
 \section*{Question 3}
 
 \begin{problem}
-	Let A be an array of n distinct integers. Consider an algorithm to find the minimum value, where we pair up the elements, and retain the smaller of the values from each pair. This will result in an array of half the size (actually the resulting size will be n/2. We can then recursively apply the same approach, until we get a final array with just two elements. We compare these two values and return the minimum of those values as the answer. Answer the following questions:
+	Let A be an array of n distinct integers. Consider an algorithm to find the minimum value, where we pair up the elements, and retain the smaller of the values from each pair. This will result in an array of half the size (actually the resulting size will be $\ceil*{n/2}$. We can then recursively apply the same approach, until we get a final array with just two elements. We compare these two values and return the minimum of those values as the answer. Answer the following questions:
 	
 	
 	
@@ -130,15 +133,20 @@ $\hfill$\\
 	\begin{enumerate}[(\itshape a\normalfont)]
 		\item How many comparisons are done in the above algorithm in the worst case.
 		\item Show how to modify/extend this method to find the second smallest element.
-		\item Prove that we can find the second smallest element in $n + \log n - 2$ comparisons in the worst case Note that the above questions are not asking for the big-Oh complexity, but rather the (exact) number of comparisons in the worst case. For example, it is easy to find the 2nd smallest element in at most $2n$ comparisons, but that is $n + n$ which is larger than $n + \log n - 2$ comparisons.
+		\item Prove that we can find the second smallest element in $n + \ceil*{\log n} - 2$ comparisons in the worst case.
 	\end{enumerate}
+
+	Note that the above questions are not asking for the big-Oh complexity, but rather the (exact) number of comparisons in the worst case. For example, it is easy to find the 2nd smallest element in at most $2n$ comparisons, but that is $n + n$ which is larger than $n + \ceil*{\log n} - 2$ comparisons.
 \end{problem}
 
 %------------------------------------------------
 
 \subsection*{Answer} 
 
-subscript
+\begin{enumerate}[(\itshape a\normalfont)]
+	\item The structure of this algorithm is one of a binary tree. Every time we go lower in depth, the array is being split twice. The height of a binary tree increases at $\log n$ compared to the number of nodes. In the worst case, the algorithm must traverse the tree from the root all the way down to the leaf node that contains the smallest element in the array, comparing $\boxed{\log n}$ times in total.
+	\item We can use $\log n$ to find the smallest element as mentioned above, and then we would have to re-establish the tree form. At most, each node can have a maximum of $3$ other connected nodes (parent, 2 child). After finding the smallest one, we would search again using our $\log n$ function for the 2nd smallest element, totaling an algorithm complexity of $\boxed{2\log n + 3}$. 
+\end{enumerate}
 
 %----------------------------------------------------------------------------------------
 
