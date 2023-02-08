@@ -1,5 +1,4 @@
 import numpy
-import statistics
 
 def selection(S, k):
     v = S[numpy.random.randint(0, len(S))]
@@ -28,6 +27,7 @@ if __name__ == "__main__":
     
     print("select", selection(numArr, k))
     print("array", numArr)
+    print()
     numArr.sort()
     print("sorted array", numArr)
 
