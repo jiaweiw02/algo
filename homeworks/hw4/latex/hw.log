@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.15)  11 FEB 2023 02:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.15)  11 FEB 2023 03:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -202,7 +202,16 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (D:\HDD Apps\MiKTeX\tex/latex/mathtools\mathtools.sty
+) (D:\HDD Apps\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (D:\HDD Apps\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (D:\HDD Apps\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
  (D:\HDD Apps\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
@@ -329,7 +338,20 @@ File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 50.
  (D:\HDD Apps\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [1
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 50.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 50.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 50.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 50.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 50.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 50.
+ [1
 
 {C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 145.
@@ -337,17 +359,17 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 14
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [4] [5] (hw.aux) ) 
 Here is how much of TeX's memory you used:
- 5763 strings out of 475389
- 87717 string characters out of 2789154
- 450169 words of memory out of 3000000
- 27040 multiletter control sequences out of 15000+600000
- 498343 words of font info for 88 fonts, out of 8000000 for 9000
+ 6266 strings out of 475389
+ 93470 string characters out of 2789154
+ 450679 words of memory out of 3000000
+ 27534 multiletter control sequences out of 15000+600000
+ 499567 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,76p,593b,447s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\ardennt\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk>{D:/HDD Apps/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on hw.pdf (5 pages, 113577 bytes).
+ 70i,12n,76p,798b,447s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\ardennt\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk>{D:/HDD Apps/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/mathpazo/fplmb.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on hw.pdf (5 pages, 127093 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

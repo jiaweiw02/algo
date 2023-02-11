@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1676100931 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw4/latex/hw.tex" "hw.pdf" "hw" 1676100933
+["pdflatex"] 1676103277 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw4/latex/hw.tex" "hw.pdf" "hw" 1676103278
   "C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1675819133 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/ardennt/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1675818709 24152 d72ba53d19a347f33cb5ab99dab13c1a ""
   "C:/Users/ardennt/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663276254 10773107 cb191ebd97441df48cbcb8022a0bad00 ""
@@ -14,6 +14,8 @@
   "D:/HDD Apps/MiKTeX/fonts/tfm/adobe/palatino/pplri8t.tfm" 1136790254 3684 929c666381f7272e81481908b735ccba ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993058526 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/jknappen/ec/ectt1200.tfm" 993058744 1348 c48a0620e07683860afba1730adf9e53 ""
+  "D:/HDD Apps/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "D:/HDD Apps/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -31,6 +33,8 @@
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247593067 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247593067 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1247593073 31764 459c573c03a4949a528c2cc7f557e217 ""
+  "D:/HDD Apps/MiKTeX/fonts/type1/public/mathpazo/fplmb.pfb" 1136871348 7720 c5a051dbf26cf0c346944343a103d9a8 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb" 1136871348 9356 3e1f7eacbb57d05d0b682da8d83eb600 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb" 1136871348 52406 dad2f72863a03727d5f536c64a69c452 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb" 1136871348 52665 661b1e6b26edb5f50dd491f8a701cb57 ""
@@ -49,6 +53,8 @@
   "D:/HDD Apps/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "D:/HDD Apps/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
   "D:/HDD Apps/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg" 1616063685 584 2a1075dd71571459f59146da9f7502ad ""
+  "D:/HDD Apps/MiKTeX/tex/latex/amsfonts/amsfonts.sty" 1358197772 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
+  "D:/HDD Apps/MiKTeX/tex/latex/amsfonts/amssymb.sty" 1358197772 13829 94730e64147574077f8ecfea9bb69af4 ""
   "D:/HDD Apps/MiKTeX/tex/latex/amsmath/amsbsy.sty" 1655054589 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
   "D:/HDD Apps/MiKTeX/tex/latex/amsmath/amsgen.sty" 1655054591 4173 c989ee3ced31418e3593916ab26c793a ""
   "D:/HDD Apps/MiKTeX/tex/latex/amsmath/amsmath.sty" 1655054591 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
@@ -86,10 +92,10 @@
   "D:/HDD Apps/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625494067 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "D:/HDD Apps/MiKTeX/tex/latex/tools/calc.sty" 1636710260 10214 00ce62e730d0cfe22b35e8f1c84949c7 ""
   "D:/HDD Apps/MiKTeX/tex/latex/tools/enumerate.sty" 1636710260 3468 068d84ef9735e15f11c5a120c0a1a139 ""
-  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw4/latex/hw.tex" 1676100930 9947 404ae3289211f311d04be2e4c477f9e4 ""
+  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw4/latex/hw.tex" 1676103276 10832 828184b44e79a7f7f57d15525b8067b2 ""
   "fphw.cls" 1675817987 4375 9b81e9c6a8e0385be28b54b73d98013f ""
-  "hw.aux" 1676100933 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
-  "hw.tex" 1676100930 9947 404ae3289211f311d04be2e4c477f9e4 ""
+  "hw.aux" 1676103277 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
+  "hw.tex" 1676103276 10832 828184b44e79a7f7f57d15525b8067b2 ""
   (generated)
   "hw.aux"
   "hw.log"
