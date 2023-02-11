@@ -1,5 +1,4 @@
 import numpy
-import statistics
 
 def selection(S, k):
     v = S[numpy.random.randint(0, len(S))]
