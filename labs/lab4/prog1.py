@@ -27,6 +27,7 @@ if __name__ == "__main__":
     
     print("select", selection(numArr, k))
     print("array", numArr)
+    print()
     numArr.sort()
     print("sorted array", numArr)
 
