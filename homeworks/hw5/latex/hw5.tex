@@ -3,6 +3,8 @@
 \usepackage{amsmath, amssymb, setspace, enumerate, enumitem}
 \usepackage{setspace}
 \usepackage{graphicx}
+\usepackage{tabto}
+\doublespacing
 
 \begin{document}
     \begin{enumerate}
@@ -25,8 +27,11 @@
         \item reachability weight
         \begin{enumerate}
             \item If the graph is a direct acyclic graph, we can run DFS on all unvisited $v$. We first run a recursive DFS that goes through the entire tree that is connected to vertex $v$. While traversing the entire tree first, and set update $v$ with the max between $v$ and its children. Each vertex will contain the max value from all its child, and when we traverse back up the tree to return the max value, all the nodes will be updated with the max value like so.\\
-            After we traverse the entire tree, every vertex $v$ will contain the max value between itself and all reachable paths for that specific starting node. This algorithm is able to complete it in linear time because it traverses all the vertices twice (once to go down, and once to come up with the max value), along with the edges, so the total running time will be $\boxed{\mathbf{O(n + m)}}$
-            \item 
+            After we traverse the entire tree, every vertex $v$ will contain the max value between itself and all reachable paths for that specific starting node. This algorithm is able to complete it in linear time because it traverses all the vertices twice (once to go down, and once to come up with the max value), along with the edges, so the total running time will be $\boxed{\mathbf{O(2n + 2m)}}$
+            \item In our last lab, we had developed an algorithm that was able to separate a graph into distinct strongly connected components. What I did for my lab was to go through every unvisited node $v$ with DFS, marking their pre and post orderings. Then, I traversed the nodes by decreasing their decreasing post ordering value to generate my strongly connected components.\\
+            In any general graph, we can split the graph up to different strongly connected components, let's call them $A$, $B$, and $C$. Since each strongly connected component will have cycles, you can go from any node to any other node, so the reachability weight for each strongly connected component will simply be the vertex with the highest weight.\\
+            After calculating the reachability weight for each strongly connected component, we then can represent each strongly connected component as a vertex (a subgroup). So $A$, $B$, and $C$ are subgroups. To finalize, we can use DFS to traverse each of the subgroups (treating them as nodes), and marking their reachability weight. We then take that reachability weight within each subgroup, and apply that weight to ALL vertices within that subgroup, marking the reachability weight for all the vertices in the graph.\\
+            This algorithm will take $O(2m + 2n)$ time to mark all the vertices with pre and post ordering (all nodes are visited a second time to mark their post ordering). Then, we run DFS within each subgroup, totaling to $O(m + n)$ as well (we visit all nodes and all edges twice in total). This gives us our maximum reachability weight for that specific subgroup, which we then take, and compare it with all other subgroups, treating them as vertices. $O(S_g)$ shows the number of subgroups in total. Then, we go through all the nodes and edges one more time to mark all the vertices within a subgroup a reachability weight that we found in $O(m + n)$ time. All these operations are linear, thereforer achieving linear time complexity.
         \end{enumerate}
 
         
