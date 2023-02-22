@@ -291,6 +291,14 @@ INPUT .\2c.png
 INPUT .\2c.png
 INPUT .\2c.png
 INPUT C:\Users\ardennt\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT D:\HDD Apps\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\p3.png
+INPUT .\p3.png
+INPUT p3.png
+INPUT .\p3.png
+INPUT .\p3.png
+INPUT .\p3.png
+INPUT .\p3.png
 INPUT hw5.aux
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -306,3 +314,5 @@ INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT D:\HDD Apps\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

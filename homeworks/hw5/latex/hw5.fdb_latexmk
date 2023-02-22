@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1676925278 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw5/latex/hw5.tex" "hw5.pdf" "hw5" 1676925279
+["pdflatex"] 1677038317 "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw5/latex/hw5.tex" "hw5.pdf" "hw5" 1677038319
   "2b.png" 1676924286 218892 c3e80ebbcfc840607fc2c14cfcb0cee6 ""
   "2c.png" 1676925149 180318 86ffd097b50ce820fc0e92643e61e4a6 ""
   "C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1675819133 82507 a9eef8696c92627b87e9975edea03b2a ""
@@ -14,6 +14,7 @@
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx5.tfm" 1136765053 1332 f817c21a1ba54560425663374f1b651a ""
   "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmbx7.tfm" 1136765053 1336 3125ccb448c1a09074e3aa4a9832f130 ""
+  "D:/HDD Apps/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247593066 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb" 1247593067 32007 e8fa0078355f39467039935974716569 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247593067 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -21,6 +22,7 @@
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247593067 32762 7fee39e011c23b3589931effd97b9702 ""
   "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247593067 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247593067 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "D:/HDD Apps/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "D:/HDD Apps/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "D:/HDD Apps/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -49,9 +51,10 @@
   "D:/HDD Apps/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1661881568 30282 33c465a64f2bd5ad4a68a7b2f555a29b ""
   "D:/HDD Apps/MiKTeX/tex/latex/setspace/setspace.sty" 1324294077 22913 a27d7908fc6f0385466454a966a316eb ""
   "D:/HDD Apps/MiKTeX/tex/latex/tools/enumerate.sty" 1636710260 3468 068d84ef9735e15f11c5a120c0a1a139 ""
-  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw5/latex/hw5.tex" 1676925278 2480 346cfe46ed51b2341a3bb8117dbc995d ""
-  "hw5.aux" 1676925279 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "hw5.tex" 1676925278 2480 346cfe46ed51b2341a3bb8117dbc995d ""
+  "c:/Users/ardennt/Documents/CS/spring2023/algo/homeworks/hw5/latex/hw5.tex" 1677038317 3443 377f09270017df9811a72badb645b495 ""
+  "hw5.aux" 1677038319 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "hw5.tex" 1677038317 3443 377f09270017df9811a72badb645b495 ""
+  "p3.png" 1677037951 1675449 9611aa9c1083a42920742d1e83147423 ""
   (generated)
   "hw5.aux"
   "hw5.log"

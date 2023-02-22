@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.15)  20 FEB 2023 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.15)  21 FEB 2023 22:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -240,19 +240,25 @@ Package pdftex.def Info: 2c.png  used on input line 17.
 (pdftex.def)             Requested size: 280.35156pt x 227.6539pt.
  [1
 
-{C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./2b.png>] [2 <./2c.png>] (hw5.aux) ) 
+{C:/Users/ardennt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./2b.png>]
+<p3.png, id=16, 877.2775pt x 939.00812pt>
+File: p3.png Graphic file (type png)
+<use p3.png>
+Package pdftex.def Info: p3.png  used on input line 24.
+(pdftex.def)             Requested size: 394.77122pt x 422.54974pt.
+ [2 <./2c.png>] [3 <./p3.png>] (hw5.aux) ) 
 Here is how much of TeX's memory you used:
- 3532 strings out of 475389
- 53440 string characters out of 2789154
+ 3542 strings out of 475389
+ 53543 string characters out of 2789154
  402411 words of memory out of 3000000
- 24888 multiletter control sequences out of 15000+600000
- 471885 words of font info for 39 fonts, out of 8000000 for 9000
+ 24896 multiletter control sequences out of 15000+600000
+ 472053 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,756b,334s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on hw5.pdf (2 pages, 367741 bytes).
+<D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/HDD Apps/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on hw5.pdf (3 pages, 1500199 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
