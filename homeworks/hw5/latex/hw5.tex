@@ -22,6 +22,13 @@
         \end{verbatim}
         Then the algorithm will once loop all vertices $x$ again, and for each neighbor $n$ of $x$, it will search for the value of $n$ in the dictionary and add it to the neighbor degree of $x$. This totals to be $\boxed{\mathbf{O(2 \times (m + n))}}$ since we are looping through all the vertices and all the edges twice in total. Below is a visual representation of the following algorithm:\\
         \includegraphics[scale=0.45]{p3.png}
-        \item Here
+        \item reachability weight
+        \begin{enumerate}
+            \item If the graph is a direct acyclic graph, we can run DFS on all unvisited $v$. We first run a recursive DFS that goes through the entire tree that is connected to vertex $v$. While traversing the entire tree first, and set update $v$ with the max between $v$ and its children. Each vertex will contain the max value from all its child, and when we traverse back up the tree to return the max value, all the nodes will be updated with the max value like so.\\
+            After we traverse the entire tree, every vertex $v$ will contain the max value between itself and all reachable paths for that specific starting node. This algorithm is able to complete it in linear time because it traverses all the vertices twice (once to go down, and once to come up with the max value), along with the edges, so the total running time will be $\boxed{\mathbf{O(n + m)}}$
+            \item 
+        \end{enumerate}
+
+        
     \end{enumerate} 
 \end{document}
