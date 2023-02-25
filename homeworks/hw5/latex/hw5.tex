@@ -18,12 +18,11 @@
             \item Here, we must go through all the nodes as well. If a node is a source node, it cannot appear in any linked list belonging to any of the $n$ nodes, therefore we have to check all the edges as well. This will equal to $O(|V| + |E|)$, or $\boxed{\mathbf{O(n + m)}}$. Below is a visualization of the algorithm.\\
             \includegraphics[scale=0.35]{2c.png}
         \end{enumerate}
-        \item Assume that our graph is represented with an adjacency list, that means that for each node, there is a linked list that represents all the nodes that are connected to it. We can simply loop through each vertex in $O(|V|)$ time, or $O(n)$, and in each vertex, we initiate a variable $sum = 0$, and add 1 for each element in the linked list. The sum will be stored in a dictionary where
+        \item Assume that our graph is represented with an adjacency list, that means that for each node, there is a linked list that represents all the nodes that are connected to it. We can simply loop through each vertex in $O(|V|)$ time, or $O(n)$, and in each vertex, we initiate a variable $sum = y$, where $y$ is length of all the list of nodes connected to it. The sum will be stored in a dictionary where
         \begin{verbatim}
-            neighors = { node: # of neighbors }
+            { nodes: # of neighbors }
         \end{verbatim}
-        Then the algorithm will once loop all vertices $x$ again, and for each neighbor $n$ of $x$, it will search for the value of $n$ in the dictionary and add it to the neighbor degree of $x$. This totals to be $\boxed{\mathbf{O(2 \times (m + n))}}$ since we are looping through all the vertices and all the edges twice in total. Below is a visual representation of the following algorithm:\\
-        \includegraphics[scale=0.45]{p3.png}
+        Since it is undirected, every node is connected to every other node, which means that we can select a node at random and run DFS, reaching every other node. For the node that we run DFS on, we will go through each of the nodes and run DFS as well. The algorithm will first add the value of the node from the dictionary and then visit it if the node is unvisited, else it would simply add it and move onto the next node on the adjancency list.
         \item reachability weight
         \begin{enumerate}
             \item If the graph is a direct acyclic graph, we can run DFS on all unvisited $v$. We first run a recursive DFS that goes through the entire tree that is connected to vertex $v$. While traversing the entire tree first, and set update $v$ with the max between $v$ and its children. Each vertex will contain the max value from all its child, and when we traverse back up the tree to return the max value, all the nodes will be updated with the max value like so.\\
