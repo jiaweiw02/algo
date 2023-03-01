@@ -58,5 +58,7 @@ def dijkstra(graph, start):
 
 
 if __name__ == "__main__":
-    g = readFile("test.txt")
-    dijkstra(g, 1)
+    F = input("Enter a filename: ")
+    sNode = int(input("Enter a starting node: "))
+    g = readFile(F)
+    dijkstra(g, sNode)
