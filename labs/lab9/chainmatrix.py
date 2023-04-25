@@ -15,7 +15,10 @@ def chainmatrix(D):
             m[i][j] = s_min
     print(m[1][n - 1])
 
+    for it in s:
+        print(it)
+
 
 if __name__ == "__main__":
-    D = [10, 20, 30, 40, 50, 40, 10, 50, 20]
+    D = [5,4,6,2,7]
     chainmatrix(D)

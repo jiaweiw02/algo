@@ -1,4 +1,3 @@
-
 class Graph:
     def __init__(self, num_vertices, union_set=None):
         self.num_vertices = num_vertices
@@ -6,7 +5,7 @@ class Graph:
         self.union_set = set(union_set) if union_set is not None else None
 
     def add_edge(self, u, v, weight):
-        self.edges.append((u,v,weight))
+        self.edges.append((u, v, weight))
 
     def find(self, parent, me):
         if parent[me] == me:
@@ -26,49 +25,49 @@ class Graph:
             rank[x_parent] += 1
 
     def kruskal(self, table):
-        try:
-            result = []
-            self.edges.sort(key=lambda item: item[2])
-            parent = [i for i in range(self.num_vertices)]
-            rank = [0 for i in range(self.num_vertices)]
-            connections = [0 for i in range(self.num_vertices)]
+        result = []
+        self.edges.sort(key=lambda item: item[2])
+        parent = [i for i in range(self.num_vertices)]
+        rank = [0 for i in range(self.num_vertices)]
+        connections = [0 for i in range(self.num_vertices)]
 
-            i, e = 0, 0
-            while e < self.num_vertices - 1:
-                u, v, w = self.edges[i]
-                x = self.find(parent, u)
-                y = self.find(parent, v)
-                i = i + 1
+        i, e = 0, 0
+        while e < self.num_vertices - 1:
+            if i >= len(self.edges):
+                print("not possible")
+                return
+            u, v, w = self.edges[i]  # fail
 
-                if x == y:
+            x = self.find(parent, u)
+            y = self.find(parent, v)
+            i = i + 1
+
+            if x == y:
+                continue
+
+            if u in self.union_set:
+                if connections[u] != 0:
                     continue
+                connections[u] = 1
+                e += 1
+                result.append((u, v, w))
+                self.union(parent, rank, x, y)
 
-                if u in self.union_set:
-                    if connections[u] != 0:
-                        continue
-                    connections[u] = 1
-                    e += 1
-                    result.append((u, v, w))
-                    self.union(parent, rank, x, y)
+            elif v in self.union_set:
+                if connections[v] != 0:
+                    continue
+                connections[v] = 1
+                e += 1
+                result.append((u, v, w))
+                self.union(parent, rank, x, y)
 
-                elif v in self.union_set:
-                    if connections[v] != 0:
-                        continue
-                    connections[v] = 1
-                    e += 1
-                    result.append((u, v, w))
-                    self.union(parent, rank, x, y)
+            else:
+                e += 1
+                result.append((u, v, w))
+                self.union(parent, rank, x, y)
 
-                else:
-                    e += 1
-                    result.append((u, v, w))
-                    self.union(parent, rank, x, y)
-
-
-            for u, v, weight in result:
-                print("{} - {}: {}".format(table[u], table[v], weight))
-        except:
-            print("ERROR: GRAPH NOT POSSIBLE WITH GIVEN LEAF NODES")
+        for u, v, weight in result:
+            print("{} - {}: {}".format(table[u], table[v], weight))
 
 
 A = 0
@@ -81,9 +80,9 @@ G = 6
 H = 7
 I = 8
 
-table = { 0: "A", 1: "B", 2: "C", 3: "D", 4: "E", 5: "F", 6: "G", 7: "H", 8: "I",}
+table = {0: "A", 1: "B", 2: "C", 3: "D", 4: "E", 5: "F", 6: "G", 7: "H", 8: "I" }
 
-g = Graph( 9, [A, D, F] )
+g = Graph(9, [A, E, F])
 g.add_edge(A, B, 10)
 g.add_edge(A, C, 12)
 g.add_edge(B, C, 9)
@@ -98,5 +97,5 @@ g.add_edge(F, H, 6)
 g.add_edge(G, H, 9)
 g.add_edge(G, I, 2)
 g.add_edge(H, I, 11)
-# g.add_edge(E, G, 2) # added edge
+# g.add_edge(E, G, 2)  # added edge
 g.kruskal(table)
