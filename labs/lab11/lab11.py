@@ -18,3 +18,7 @@ if __name__ == "__main__":
     ]
 
     cover(S, n)
+
+# 2: get the max O(n), worst case we have to go through all sets to find all the values O(n) again
+
+# 3:
